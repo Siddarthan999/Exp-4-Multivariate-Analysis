@@ -125,3 +125,7 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/91734840/230870345-c973f757-fd16-43df-8f3e-3ac7be340b3e.png)
 ![image](https://user-images.githubusercontent.com/91734840/230870396-86ae1db6-5540-4736-9f33-aba1b7f78ffe.png)
 ![image](https://user-images.githubusercontent.com/91734840/230870516-e3f6baff-4a07-4906-9990-99a40fdeee3d.png)
+
+# RESULT
+
+Thus, to read the given data and perform Multivariate Analysiss has been performed successfully.
