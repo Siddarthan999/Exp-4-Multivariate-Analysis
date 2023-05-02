@@ -10,23 +10,23 @@ Multivariate analysis is based in observation and analysis of more than one stat
 
 # ALGORITHM
 
-# STEP 1
+### STEP 1
 
 Read the given Data
 
-# STEP 2
+### STEP 2
 
 Get the information about the data
 
-# STEP 3
+### STEP 3
 
 Handle missing values
 
-# STEP 4
+### STEP 4
 
 Perform basic descriptive statistics
 
-# STEP 5
+### STEP 5
 
 Visualize the data
 
